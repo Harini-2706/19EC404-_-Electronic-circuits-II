@@ -45,3 +45,4 @@ Thus the current shunt feedback amplifier is designed and constructed  and the f
 The frequency response of the current shunt feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
 
 ---
+
